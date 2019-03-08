@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TetrisTest</string>
+    <string name="retry">Retry</string>
 </resources>
