@@ -7,7 +7,7 @@ For more information and details take a look at the provided link above.
 
 This is the story which i used above tutorial to write it:
 
-the functionality to get a list of "tetris"-repositories from the REST API call:
+the functionality to get a list of "[keyword]"-repositories from the REST API call:
 https://api.github.com/search/repositories?q=[Keyword]
 The call returns JSON entries for each repository.
 
