@@ -3,7 +3,7 @@ This is a sample app with Kotlin to show how to use a recyclerview and Rx to loa
 
 The code originally is not mine, i just rewrote everything from scartch and slightly changes since i was playing around of it from a tutorial artice on Medium at this link:
 https://medium.com/@Ahmed.AbdElmeged/android-paging-library-with-rxjava-and-rest-api-e5c229fd70ba
-For more information and details take a look at the provided link above
+For more information and details take a look at the provided link above.
 
 This is the story which i used above tutorial to write it:
 
